@@ -412,7 +412,7 @@
   border-radius: 15px;
   background-blend-mode: luminosity;
   box-shadow: 0 6px 30px 0#0000001b;
-  background-image: linear-gradient(#FFAB91,#EEEEEE);
+  background-image: linear-gradient(#9C27B0,#fff);
   border: solid 1px #e6e6e6;
   padding: 35px;
 }
@@ -841,7 +841,7 @@ a.cta-btn-primary.banner-btn {
   border-radius: 15px;
   background-blend-mode: luminosity;
   box-shadow: 0 6px 30px 0#0000001b;
-  background-image: linear-gradient(#fed4d4, hsl(0, 97%, 77%));
+  background-image: linear-gradient(#9C27B0,#fff);
   border: solid 1px #e6e6e6;
   padding: 35px;
 }
