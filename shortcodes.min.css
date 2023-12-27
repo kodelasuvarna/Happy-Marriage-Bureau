@@ -9581,8 +9581,11 @@
   text-transform: capitalize;
   font-family: sans-serif;
   font-weight: 300;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   word-wrap: break-word;
+  color: white;
+  text-shadow: 0 2px 4px white, 2px 2px 4px rgb(19, 18, 18), 7px 1px 10px white,
+    8px 2px 10px black, 4px 2px 4px black, 4px 2px 4px black;
 }
 
 .about-story .about-story-content {
@@ -9593,7 +9596,7 @@
 .about-story .about-story-content > span {
   font-family: var(--primary-font, Sans-Serif);
   font-weight: 700;
-  color: var(--primary, #ff9800);
+  color: #987200;
 }
 
 .about-story .about-story-content > span {
@@ -9608,7 +9611,7 @@
   font-family: var(--primary-font, Sans-Serif);
   font-size: 16px;
   margin-bottom: 35px;
-  color: #666;
+  color: #987200;
   line-height: 1.9;
 }
 
